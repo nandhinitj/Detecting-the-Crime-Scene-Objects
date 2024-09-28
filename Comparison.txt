@@ -1,0 +1,14 @@
+Comparison: 
+    Optimization Algorithms:
+        * Election Based Optimization Algorithm (EBOA)
+        * Coati Optimization Algorithm (COA)
+        * Wild Geese Migration Optimization (GMO)
+        * Single Candidate Optimizer (SCO)
+        * Improved Single Candidate Optimizer (SCO)
+
+    Classifier:
+        * Resnet
+        * Mobilenet
+        * VGG16 
+        * RNN
+        * Dilated based cascaded RNN
